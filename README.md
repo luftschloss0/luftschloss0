@@ -3,7 +3,7 @@
 - 📚 I am a PolS and Law student at the same time.
 - 🌱 I am currently learning Python.
 - 💞️ I am not looking for a collaboration as I am currently in the learning phase.
-- 📫 My goal is to use this tool (Coding), which I enjoy spending time on, well enough to reflect my imagination and be useful to humanity.
+- 📫 My goal is to use coding, which I enjoy spending time on, well enough to reflect my imagination and be useful to humanity.
 
 <!---
 luftschloss0/luftschloss0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
