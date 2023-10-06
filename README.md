@@ -1,4 +1,4 @@
-# Hi 👋 I’m Luftschloss0
+# Hi 👋 I’m HappybutHappy
 - 👀 I am interested in randomness and determinism, both philosophically and as code. Data Analysis is also in my field of interest.
 - 📚 I am a PolS and Law student at the same time.
 - 🌱 I am currently learning various Python libraries.
